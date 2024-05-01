@@ -31,19 +31,7 @@ This project utilizes the Epoch robot and the Webots application to create a sim
 - `README.md`: This file, providing information about the project.
 - `worlds/`: Directory containing the Webots world files.
 
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvements or find any issues, please open an issue or create a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 - This project is inspired by [Webots](https://www.cyberbotics.com/) and the Epoch robot.
-- Special thanks to the developers and contributors of Webots for providing such a powerful robotics simulation platform.
 
----
-
-Feel free to customize this template according to your specific project details and requirements!
