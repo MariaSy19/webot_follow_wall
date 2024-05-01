@@ -27,9 +27,9 @@ This project utilizes the Epoch robot and the Webots application to create a sim
 
 ## Project Structure
 
-- `controller.py`: Python script containing the robot controller code.
+- `mazecontroller.py`: Python script containing the robot controller code.
 - `README.md`: This file, providing information about the project.
-- `worlds/`: Directory containing the Webots world files.
+- `maze with box`:  containing the Webots world file.
 
 ## Acknowledgments
 
